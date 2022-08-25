@@ -16,7 +16,7 @@
   스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (https://www.inflearn.com/course/스프링-입문-스프링부트) <br>
 
 **관심사**  
-> Docker, Kubernetes
+> Docker, REST, OOP // Kubernetes
 
 **skills**⚡
 * 기초 공부
