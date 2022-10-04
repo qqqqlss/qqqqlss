@@ -1,6 +1,7 @@
 **이도원** 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqqqlss&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-신입 개발자 이도원 입니다. 현재 Aroundog 반려견 산책 앱을 개발 중에 있습니다. 좋은 동료와 같이 성장하며 의견 주고 받고 싶습니다. 연락주세요.
+신입 개발자 이도원 입니다. 현재 Aroundog 반려견 산책 앱을 개발 중에 있습니다. 좋은 동료와 같이 성장하며 의견 주고 받고 싶습니다.  
+연락주세요.
 
 **Info**
 ---
