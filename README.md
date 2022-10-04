@@ -27,8 +27,8 @@
   java(spring) <br> python (fastapi)<br> 
 
 **Projects**
-- BeatRiding
-- Aroudog
+- [BeatRiding](https://github.com/qqqqlss/BeatRiding)
+- [Aroudog](https://github.com/qqqqlss/arounDog)
 
 **자격증**
 - 2021.10.01 SQL 개발자
