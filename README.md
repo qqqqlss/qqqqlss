@@ -21,7 +21,8 @@
 **Toy Projects**  
 - 2022.06 [PlaceReview Page](https://github.com/qqqqlss/locReg) / NodeJS, MongoDB  
 - 2021.06 [K-league 팀 공격력 및 공격수 분석](https://github.com/qqqqlss/K-league_data_analyze) / python 데이터 분석 및 시각화   
-- 2021.06 [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game  
+- 2021.06 [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game
+- 2020.12 [Community_L](https://github.com/qqqqlss/Community_L) / JSP, MYSQL  
 - 2020.06 [공먹기 게임](https://github.com/qqqqlss/Ball_Predation) / Python mini game  
 
 **최종 학력 및 학점**
