@@ -19,7 +19,8 @@
 - [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 **Toy Projects**  
-- [PlaceReview Page](https://github.com/qqqqlss/locReg) / NodeJS, MongoDB   
+- [PlaceReview Page](https://github.com/qqqqlss/locReg) / NodeJS, MongoDB  
+- [K-league 팀 공격력 및 공격수 분석](https://github.com/qqqqlss/K-league_data_analyze) / python 데이터 분석 및 시각화   
 - [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game  
 - [공먹기 게임](https://github.com/qqqqlss/Ball_Predation) / Python mini game  
 
@@ -35,7 +36,7 @@
 - 2022.06.30 `AWS Certified Cloud Practitioner`
 
 **대외활동**  
-- 2021.03~ 2021.12 `전공동아리 EL`(졸업작품 한국전자전 출품, EXPO 우수상)  
+- 2021.03~ 2021.12 `전공동아리 EL`(졸업작품 한국전자전(KES) 출품, EXPO 우수상)  
 - 2021.04~ 2021.06 `교내 튜터링`(프로그래밍 언어 및 알고리즘 교육,3*6=18시간)  
 - 2021.05~ 현재   `봉사동아리 찬누리`(어르신 스마트폰 교육 봉사활동, 33.5시간)  
 
