@@ -19,8 +19,9 @@
 - [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 **Toy Projects**  
-- [공먹기 게임](https://github.com/qqqqlss/Ball_Predation) / Python mini game
-- [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game
+- [PlaceReview Page](https://github.com/qqqqlss/locReg) / NodeJS, MongoDB   
+- [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game  
+- [공먹기 게임](https://github.com/qqqqlss/Ball_Predation) / Python mini game  
 
 **최종 학력 및 학점**
 - 학사과정 졸업예정(2023.02)
