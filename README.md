@@ -44,7 +44,7 @@
 **교육**  
 - AWS DeepRacer와 강화학습으로 배우는 자율주행 AI 만들기 수료(퍼블릭에이아이 주관)
 
-**병역 사항**  
+**병역 사항**   
 - 2017.06~ 2019.02 병장 만기제대(전산병)
 
 **공부중인 도서**
@@ -57,7 +57,5 @@
   스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (https://www.inflearn.com/course/스프링-입문-스프링부트) <br>
   Python API Development - Comprehensive Course for Beginners (https://www.youtube.com/watch?v=0sOvCWFmrtA) <br>
 
-**관심사**  
-> Docker, REST, OOP // Kubernetes
 
 
