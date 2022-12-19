@@ -49,7 +49,7 @@
 
 **공부중**
 > Python API Development - Comprehensive Course for Beginners (https://www.youtube.com/watch?v=0sOvCWFmrtA) <br>
-  cs지식(운영체제, 데이터베이스, 서버)
+  cs지식(운영체제, 데이터베이스, 서버)  <br>
   클린코더스 강좌 (https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)  <br>
   
 
