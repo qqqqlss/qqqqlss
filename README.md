@@ -47,15 +47,10 @@
 **병역 사항**   
 - 2017.06~ 2019.02 병장 만기제대(전산병)
 
-**공부중인 도서**
-> 객체지향의 사실과 오해  <br>
-  개발자에서 아키텍트로 <br>
-  쏙쏙 들어오는 함수형 코딩 <br>
-
-**공부중인 강의**
-> 클린코더스 강좌 (https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)  <br>
-  스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (https://www.inflearn.com/course/스프링-입문-스프링부트) <br>
-  Python API Development - Comprehensive Course for Beginners (https://www.youtube.com/watch?v=0sOvCWFmrtA) <br>
-
+**공부중**
+> Python API Development - Comprehensive Course for Beginners (https://www.youtube.com/watch?v=0sOvCWFmrtA) <br>
+  cs지식(운영체제, 데이터베이스, 서버)
+  클린코더스 강좌 (https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)  <br>
+  
 
 
