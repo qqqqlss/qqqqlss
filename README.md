@@ -1,18 +1,18 @@
 **이도원** 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqqqlss&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-신입 개발자 이도원 입니다. 무엇이든 생각한 것을 만들 수 있는 SW개발자로 성장하고 싶습니다.  
-이를 위해 새로운 분야에 도전하며 여러 팀/개인 개발 프로젝트를 하고 관련 전공 자격증을 따며 기초를 쌓아올리고 있습니다.  
-현재는 Aroundog 반려견 산책 앱을 개발 중입니다.  
-기업에서 개발 실무를 통해 동료와 협업하며 경험을 쌓는 것이 가장 빠른게 성장할 수 있는 길이라 느껴 함께할 동료/기업을 찾습니다.
+
 
 **Info**
 ---
-> email - qqqqlss@naver.com <br>
-  velog - https://velog.io/@qqqqlss
+> 안드로이드/SW 개발자
+> email - dwlee@mappers.kr
+> 소속 - 맵퍼스 LaaS개발팀
+> 직책 - 연구원
+  
 
 **Programming Languages**  
-- Python
-- C
+- Java, Kotlin (Android)
+- C, C++ (ndk)
 
 **TEAM Projects**
 - 2021.3~ 2021.12 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
