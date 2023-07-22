@@ -4,11 +4,10 @@
 
 **Info**
 ---
-> 안드로이드/SW 개발자
-> email - dwlee@mappers.kr
-> 소속 - 맵퍼스 LaaS개발팀
-> 직책 - 연구원
-  
+> 안드로이드/SW 개발자  
+> email - dwlee@mappers.kr  
+> 소속 - 맵퍼스 LaaS개발팀  
+> 직책 - 연구원  
 
 **Programming Languages**  
 - Java, Kotlin (Android)
