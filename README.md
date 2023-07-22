@@ -13,19 +13,12 @@
 - Java, Kotlin (Android)
 - C, C++ (ndk)
 
-**TEAM Projects**
-- 2021.3~ 2021.12 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
-- 2022.3~ 현재 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
-
-**Toy Projects**  
-- 2022.06 [PlaceReview Page](https://github.com/qqqqlss/locReg) / NodeJS, MongoDB  
-- 2021.06 [K-league 팀 공격력 및 공격수 분석](https://github.com/qqqqlss/K-league_data_analyze) / python 데이터 분석 및 시각화   
-- 2021.06 [공피하기 게임](https://github.com/qqqqlss/Ball_Avoid) / Unity mini game
-- 2020.12 [Community_L](https://github.com/qqqqlss/Community_L) / JSP, MYSQL  
-- 2020.06 [공먹기 게임](https://github.com/qqqqlss/Ball_Predation) / Python mini game  
+**대학교 졸업작품**
+- 2021.3~ 2021.10 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
+- 2022.3~ 2022.10 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 **최종 학력 및 학점**
-- 학사과정 졸업예정(2023.02)
+- 학사과정 졸업
 - 4.03/4.5
 
 **자격증**
