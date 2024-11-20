@@ -6,7 +6,7 @@
 ---
 > 안드로이드/SW 개발자  
 > email - dwlee@mappers.kr  
-> 소속 - 맵퍼스 LaaS개발팀  
+> 소속 - 맵퍼스 LaaS플랫폼개발팀  
 > 직책 - 연구원  
 
 **Programming Languages**  
@@ -18,7 +18,7 @@
 - 2022.3~ 2022.10 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 **최종 학력 및 학점**
-- 학사과정 졸업
+- 컴퓨터소프트웨어전공 학사과정 졸업
 - 4.03/4.5
 
 **자격증**
