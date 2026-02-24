@@ -7,7 +7,8 @@
 > 안드로이드/SW 개발자  
 > email - dwlee@mappers.kr  
 > 소속 - 맵퍼스 LaaS플랫폼개발팀  
-> 직책 - 연구원  
+> 직책 - 전임연구원  
+> 담담 프로젝트 - [AtlanTruck App](https://play.google.com/store/apps/details?id=kr.mappers.atlantruck&hl=ko)
 
 **Programming Languages**  
 - Java, Kotlin (Android)
