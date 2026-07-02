@@ -1,14 +1,15 @@
 **이도원** 👋
 ---
-화물차 내비게이션 안드로이드 네이티브 앱(AtlanTruck) 을 3년 넘게 단독으로 개발/운영해 온 개발자입니다.
-실시간 음성 무전, 소켓 기반 오더 추천, 구독 결제, 광고 수익화 등 다양한 서비스를 0부터 직접 만들고 안정적으로 운영하는 데 강점이 있습니다.
+DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱(AtlanTruck) 을 3년 넘게 단독으로 개발/운영해 온 개발자입니다.
+실시간 음성 무전, 소켓 기반 오더 추천, 구독 결제, 광고 수익화 등 다양한 서비스를 0부터 직접 만들고 안정적으로 운영하였습니다.
+타사/타팀/상급자/팀원과의 협업 경험 多 - 원활한 커뮤니케이션을 통한 니즈에 따른 핏한 개발에 자신있습니다.
 
 **Info**
 ---
-> 안드로이드/SW 개발자  
+> 메인) 안드로이드 네이티브 앱 개발, 서브) 웹 프론트 엔드, 백엔드  
 > email - qqqqlss@naver.com  
 > 소속 - 맵퍼스 LaaS플랫폼개발팀  
-> 직책 - 전임연구원  
+> 직책 - 전임 연구원  
 > 담당 프로젝트 - [AtlanTruck App](https://play.google.com/store/apps/details?id=kr.mappers.atlantruck&hl=ko)
 
 **주요 성과 (AtlanTruck)**
@@ -23,7 +24,7 @@
 
 신규 서비스·기능 개발 (0→1)
 - **일감·커머스** : 오더 화면 챕터 분리 재설계 · 묶음오더(연계/왕복/혼적)·짱오더 · 목적지 주변 오더 · 다중경유지 배송 최적화(TSP/VRP — 엑셀 업로드·순서 최적화·외부 TMS 연동)
-- **결제·수익화** : 파트너 멤버십 구독(가입~해지·결제수단·현금영수증) · 광고 미디에이션·보상형·오퍼월 · 아틀란포인트·보험·대출
+- **결제·수익화** : 무료 -> 멤버십 구독제(가입~해지·결제수단·현금영수증) · 광고 미디에이션·보상형·오퍼월 · 아틀란포인트·보험·대출
 - **실시간·통신** : 무전기(실시간 음성 PTT) · 소켓 실시간 오더추천 푸시 · 도착예정알림·위치 공유 · 앱투앱 연동(화물맨·원콜·화물잇고) · FCM 추천화물 풀스크린 알림
 - **내비·콘텐츠** : 트럭 특화 안내(높이·중량·위험물 제한·회피이유·구간단속) · 상하차지팁 · 음성 방문팁 · 아틀란톡
 - **인증·계정** : 소셜 로그인(Google Credential Manager·Naver·Kakao) · 원콜 휴대폰 인증
@@ -34,15 +35,18 @@
 
 **Tech Stack**
 ---
-- **Language** : Java, Kotlin (Android), C, C++ (ndk)
-- **Android** : MVVM, DataBinding, Coroutines, ViewBinding, WebView
+- **Language** : Kotlin, Java (Android), C, C++ (ndk)
+- **Android** : MVVM, DataBinding, Coroutines, ViewBinding, WebView(+웹앱 통신)
 - **Network** : Retrofit, OkHttp(REST/WebSocket), Protocol Buffers, FCM
 - **Firebase / 운영** : Crashlytics(+NDK), Remote Config, Analytics(GA4), Sentry
-- **기타** : OpenGL ES(VBO), AdPopcorn·Adiscope 미디에이션, Apache POI, OpenCV, MPAndroidChart
+- **기타** : OpenGL ES(VBO), 광고(AdPopcorn·Adiscope) 미디에이션 연동, Apache POI, OpenCV, MPAndroidChart
+
+**경력**
+- 2023.02~ 현재 `맵퍼스` (LaaS플랫폼개발팀 · 전임연구원 : 화물 내비게이션 안드로이드 네이티브 앱(AtlanTruck) 개발·배포·운영)
 
 **대학교 졸업작품**
-- 2021.3~ 2021.10 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
-- 2022.3~ 2022.10 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
+- 2021.03~ 2021.10 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
+- 2022.03~ 2022.10 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 **최종 학력 및 학점**
 - 컴퓨터소프트웨어전공 학사과정 졸업
