@@ -42,7 +42,7 @@ DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱(AtlanTruck
 - **기타** : OpenGL ES(VBO), 광고(AdPopcorn·Adiscope) 미디에이션 연동, Apache POI, OpenCV, MPAndroidChart
 
 **경력**
-- 2023.02~ 현재 `맵퍼스` (LaaS플랫폼개발팀 · 전임연구원 : 화물 내비게이션 안드로이드 네이티브 앱(AtlanTruck) 개발·배포·운영)
+- 2023.02~ 현재 `맵퍼스` LaaS플랫폼개발팀 · 전임연구원 : 화물 내비게이션 안드로이드 네이티브 앱(AtlanTruck) 개발·배포·운영
 
 **대학교 졸업작품**
 - 2021.03~ 2021.10 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
