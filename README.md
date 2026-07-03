@@ -75,7 +75,7 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 
 ## **Tech Stack**
 
-- **Language** : Kotlin, Java (Android), C, C++ (NDK)
+- **Language** : Kotlin, Java (Android), C, C++ (NDK), Java script(web front)
 - **Android** : MVVM, DataBinding, Coroutines, ViewBinding, WebView(+웹앱 통신)
 - **Network** : Retrofit, OkHttp(REST/WebSocket), Protocol Buffers, FCM
 - **Firebase / 운영** : Crashlytics(+NDK), Remote Config, Analytics(GA4), Sentry
