@@ -13,7 +13,6 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 
 ### 목차
 - [Info](#info)
-- [주요 성과](#주요-성과-atlantruck)
 - [AtlanTruck 프로젝트](#atlantruck--화물차-내비게이션--오더배차-플랫폼)
 - [Tech Stack](#tech-stack)
 - [경력](#경력)
