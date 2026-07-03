@@ -28,15 +28,12 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 | 소속 | 맵퍼스 LaaS플랫폼개발팀 · 전임 연구원 |
 | 담당 프로젝트 | [AtlanTruck App](https://play.google.com/store/apps/details?id=kr.mappers.atlantruck&hl=ko) |
 
-## **주요 성과 (AtlanTruck)**
+## **AtlanTruck — 화물차 내비게이션 + 오더/배차 플랫폼**
+> 2023.02 ~ 현재 · 안드로이드 단독(1인) 개발·배포·운영 · DAU 약 1.5만 · 본인 커밋 약 1,193건
 
 - 🚀 **20여 개 신규 서비스·기능을 0→1로 구축** — 커머스·결제·실시간 통신·수익화 전반
 - 📈 **DAU 6,000 → 15,000 (2.5배)** — 성장 트래픽을 1인 개발 체제로 무중단 운영
 - 🛡️ **크래시프리율 95% → 99.5%** (Firebase, 7일/사용자 기준) — 장애 발생률 약 1/10
-
-## **AtlanTruck — 화물차 내비게이션 + 오더/배차 플랫폼**
-
-> 2023.02 ~ 현재 · 안드로이드 단독(1인) 개발·배포·운영 · DAU 약 1.5만 · 본인 커밋 약 1,193건
 
 ### 신규 서비스·기능 개발 (0→1)
 
@@ -68,10 +65,10 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 - 소셜 로그인 (Google Credential Manager·Naver·Kakao)
 - 휴대폰 인증
 
-### 유지보수·안정화 (크래시프리율 95% → 99.5%)
-
+### 유지보수·안정화
 - 구글 플레이 콘솔 정책 대응
 - Dynamic Links → App Links 마이그레이션 (서비스 종료 대응)
+- 웹뷰 onRenderProcessGone 크래시 38개소 일괄 가드, NDK Version up(Android 16대응)
 - C++/NDK 메모리 크래시 가드
 - 지도 GPU 드라이버 크래시 대응 (VBO 전환)
 - GA4 퍼널 계측 · Remote Config 토글/A·B
