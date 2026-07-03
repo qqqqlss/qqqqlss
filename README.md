@@ -26,12 +26,12 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 - **일감·커머스** : 오더 화면 챕터 분리 재설계 · 묶음오더(연계/왕복/혼적)·짱오더 · 목적지 주변 오더 · 다중경유지 배송 최적화(TSP/VRP — 엑셀 업로드·순서 최적화·외부 TMS 연동)
 - **결제·수익화** : 무료 → 멤버십 구독제(가입~해지·결제수단·현금영수증) · 광고 미디에이션·보상형·오퍼월 · 아틀란포인트·보험·대출
 - **실시간·통신** : 무전기(실시간 음성 PTT) · 소켓 실시간 오더추천 푸시 · 도착예정알림·위치 공유 · 앱투앱 연동(화물맨·원콜·화물잇고) · FCM 추천화물 풀스크린 알림
-- **내비·콘텐츠** : 트럭 특화 안내(높이·중량·위험물 제한·회피이유·구간단속) · 상하차지팁 · 음성 방문팁 · 아틀란톡
+- **내비·콘텐츠** : 1t전용경로 · 트럭 특화 안내(높이·중량·위험물 제한·회피이유·구간단속) · 상하차지팁 · 음성 방문팁 · 아틀란톡 · 주선사결제후기
 - **인증·계정** : 소셜 로그인(Google Credential Manager·Naver·Kakao) · 원콜 휴대폰 인증
 
 유지보수·안정화 (크래시프리율 95% → 99.5%)
 - 웹뷰 onRenderProcessGone 크래시 38개소 일괄 가드(Android 16) · C++/NDK 메모리 크래시(UAF·double-free·SIGSEGV) 가드 · 지도 GPU 드라이버 크래시 대응(VBO 전환)
-- NPE/OOM 방어 · GA4 퍼널 계측 · Remote Config 토글/A·B · ViewBinding·SDK 현행화 · 인앱 업데이트
+- GA4 퍼널 계측 · Remote Config 토글/A·B · ViewBinding·SDK 현행화 · 인앱 업데이트 · NPE/OOM 방어
 
 **Tech Stack**
 ---
@@ -39,7 +39,8 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 - **Android** : MVVM, DataBinding, Coroutines, ViewBinding, WebView(+웹앱 통신)
 - **Network** : Retrofit, OkHttp(REST/WebSocket), Protocol Buffers, FCM
 - **Firebase / 운영** : Crashlytics(+NDK), Remote Config, Analytics(GA4), Sentry
-- **기타** : OpenGL ES(VBO), 광고(AdPopcorn·Adiscope) 미디에이션 연동, Apache POI, OpenCV, MPAndroidChart
+- **Native** : C/C++ (NDK), JNI (Java ↔ C++ 연동), OpenGL ES(VBO)  
+- **기타** : 광고(AdPopcorn·Adiscope) 미디에이션 연동, Apache POI, OpenCV, MPAndroidChart
 
 **경력**
 ---
