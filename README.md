@@ -20,12 +20,12 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 
 ## **Info**
 
-| | |
-|---|---|
-| 직무 | 안드로이드 네이티브 앱 개발자 |
-| Email | qqqqlss@naver.com |
-| 소속 | 맵퍼스 LaaS플랫폼개발팀 · 전임 연구원 |
-| 담당 프로젝트 | [AtlanTruck App](https://play.google.com/store/apps/details?id=kr.mappers.atlantruck&hl=ko) |
+<table>
+<tr><td>직무</td><td>안드로이드 네이티브 앱 개발자</td></tr>
+<tr><td>Email</td><td>qqqqlss@naver.com</td></tr>
+<tr><td>소속</td><td>맵퍼스 LaaS플랫폼개발팀 · 전임 연구원</td></tr>
+<tr><td>담당 프로젝트</td><td><a href="https://play.google.com/store/apps/details?id=kr.mappers.atlantruck&hl=ko">AtlanTruck App</a></td></tr>
+</table>
 
 ## **AtlanTruck — 화물차 내비게이션 + 오더/배차 플랫폼**
 > 2023.02 ~ 현재 · 안드로이드 단독(1인) 개발·배포·운영 · DAU 약 1.5만 · 본인 커밋 약 1,193건
