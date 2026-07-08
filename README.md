@@ -32,7 +32,9 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 
 - 🚀 **20여 개 신규 서비스·기능을 0→1로 구축** — 커머스·결제·실시간 통신·수익화 전반
 - 📈 **DAU 6,000 → 15,000 (2.5배)** — 성장 트래픽을 1인 개발 체제로 무중단 운영
-- 🛡️ **크래시프리율 95% → 99.5%** (Firebase, 7일/사용자 기준) — 장애 발생률 약 1/10
+- 🛡️ **크래시프리율 99.7% 이상 유지** — Crashlytics·Sentry·Android Vitals 모니터링 + Appium 자동화 테스트·리포트 분석으로 3년간 안정 운영
+- 📊 **데이터 기반 UX 개선** — GA4 퍼널로 이탈 구간을 수치 분석하고, Remote Config·A/B 테스트로 개선안을 검증·배포
+- 👥 **안드로이드 설계~구현~배포~안정화 단독 담당** — 기획·디자인팀과 협업
 
 ### 신규 서비스·기능 개발 (0→1)
 
@@ -44,8 +46,9 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 
 **결제·수익화**
 - 무료 → 멤버십 구독제 (가입~해지·결제수단·현금영수증)
-- 광고 미디에이션·보상형·오퍼월
-- 아틀란포인트 · 보험 · 대출
+- 광고 수익화 도입 — 배너·보상형·오퍼월 미디에이션 연동 (AdPopcorn·Adiscope · 무료 충전소·리워드)
+- 아틀란포인트 (앱 내 재화 · 적립/사용 시스템 구축)
+- 보험 · 대출 (외부 금융 상품 연동)
 
 **실시간·통신**
 - 무전기 (실시간 음성 PTT)
@@ -64,13 +67,19 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 - 소셜 로그인 (Google Credential Manager·Naver·Kakao)
 - 휴대폰 인증
 
-### 유지보수·안정화
+### 기능 개선·고도화
+- 안전운전 안내 (네트워크 DB 기반)
+- 경로선·도로 위 교통정보 표시
+- ETA(도착예정) 정확도 개선
+- 길안내 음성 자동 볼륨 조절 (통화 수신 시)
+
+### 안정화·유지보수
 - 구글 플레이 콘솔 정책 대응
 - Dynamic Links → App Links 마이그레이션 (서비스 종료 대응)
-- 웹뷰 onRenderProcessGone 크래시 38개소 일괄 가드, NDK Version up(Android 16대응)
+- 웹뷰 onRenderProcessGone 크래시 38개소 일괄 가드
+- NDK Version up (Android 16 대응)
 - C++/NDK 메모리 크래시 가드
 - 지도 GPU 드라이버 크래시 대응 (VBO 전환)
-- GA4 퍼널 계측 · Remote Config 토글/A·B
 - ViewBinding·SDK 현행화 · 인앱 업데이트 · NPE/OOM 방어
 
 ## **Tech Stack**
@@ -78,7 +87,8 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 - **Language** : Kotlin, Java (Android), C, C++ (NDK), JavaScript (Web)
 - **Android** : MVVM, DataBinding, Coroutines, ViewBinding, WebView(+웹앱 통신)
 - **Network** : Retrofit, OkHttp(REST/WebSocket), Protocol Buffers, FCM
-- **Firebase / 운영** : Crashlytics(+NDK), Remote Config, Analytics(GA4), Sentry
+- **모니터링 / 운영** : Crashlytics(+NDK), Sentry, Android Vitals, Remote Config, Analytics(GA4)
+- **QA / 테스트** : Appium(UI 자동화), debug report 분석
 - **Native** : C/C++ (NDK), JNI (Java ↔ C++ 연동), OpenGL ES(VBO)
 - **기타** : 광고(AdPopcorn·Adiscope) 미디에이션 연동, Apache POI, OpenCV, MPAndroidChart
 
@@ -92,7 +102,7 @@ AtlanTruck(DAU 1.5만 화물차 내비게이션 안드로이드 네이티브 앱
 <summary>대학교 졸업작품</summary>
 
 - 2021.03 ~ 2021.10 [BeatRiding](https://github.com/qqqqlss/BeatRiding) / Unity(C#), Arduino(C++)
-- 2022.03 ~ 2022.10 [Aroudog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
+- 2022.03 ~ 2022.10 [arounDog](https://github.com/qqqqlss/arounDog) / Android(Kotlin)
 
 </details>
 
